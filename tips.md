@@ -1,0 +1,1 @@
+# Some tips which I highly recommend to those who are new to coding
