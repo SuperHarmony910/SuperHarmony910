@@ -1,2 +1,2 @@
 To view .md files, go to https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en regardless of any browser you are using save Internet Explorer! 
-(I mean, come on, who uses IE?! If you do use an outdated browser, I recommend you switch to Google Chrome. Link to download: https://www.google.com/intl/en_au/chrome/)
+(I mean, come on, who uses an outdated browser like IE?! If you do use an outdated browser, I recommend you switch to Google Chrome. Link to download: https://www.google.com/intl/en_us/chrome/)
