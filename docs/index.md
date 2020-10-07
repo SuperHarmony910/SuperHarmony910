@@ -1,10 +1,43 @@
 # Welcome to SuperHarmony910's GitHub profile
 
-I am a young, ambitious and mostly self-motivated programmer who is currently learning HTML, CSS, JavaScript, Java, Python, C and C++.
+I am a young, ambitious and mostly self-motivated programmer who is currently learning HTML, CSS, JavaScript, Java, Python, C and C++. I also have an account on [SoloLearn](https://www.sololearn.com/Profile/15129420), where I started coding!
 
 ## Why do I code  
 
-My desire to commit to open source code was first motivated by <strong>[@MrCrayfish](https://github.com/MrCrayfish)</strong>, who was at the time moddding for Minecraft!
+My desire to commit to open source code was first motivated by **[@MrCrayfish](https://github.com/MrCrayfish)**, who was at the time modding for Minecraft!
 (You can learn about why and how I started to code for Minecraft [here.](https://superharmony910.github.io/modification-builder) )
 
-<link rel="icon" type="image/png" href="https://avatars0.githubusercontent.com/u/57850338?s=400&u=6867f50494df1953bab9bf9c8df730bc8cb0fc13&v=4">
+I was inspired by his eternal expertise and creativity, and in November of 2019, I came to the conclusion that I wanted to play around with
+some programs and web development and succumbed into the web of HTML, CSS & JavaScript.
+
+
+Fast forward to January of 2020, I had already dived deep into the cavernous
+depths of the Java programming language. In July, I had already captured the basics of the slithery Python language, trying to build programs and GUIs left, right and centre.
+Come to now (September 2020), and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, and Node.js! Not much to come, but definitely worthwile. 
+
+[Click me to find the corresponding repositories!](superharmony910.github.io/SuperHarmony910#Links)
+
+### How skilled am I at programming?
+Nobody is *good* at programming (except maybe the creators); people have different skills which vary to their interests. If, for instance, someone wanted to build a website,
+they would not be looking at building a GUI with Tkinter in Python! 
+I possess diverse & mediocre levels of expertise and prowess in various programming languages which I have displayed in chronological order below:
+
+<ol>
+<li>Markdown (lol) <progress min="0" max="100" value="90"></progress></li>
+<li>HTML5 <progress min="0" max="100" value="60"></progress></li>
+<li>XML <progress min="0" max="100" value="50"></progress></li>
+<li>Python <progress min="0" max="100" value="45"></progress></li>
+<li>CSS(3) <progress min="0" max="100" value="30"></progress></li>
+<li>PHP <progress min="0" max="100" value="26"></progress></li>
+<li>Java <progress min="0" max="100" value="25"></progress></li>
+<li>JavaScript <progress min="0" max="100" value="20"></progress></li>
+<li>C++ <progress min="0" max="100" value="5"></progress></li>
+<li>SQL <progress min="0" max="100" value="1"></progress></li>
+<li>C <progress min="0" max="100" value="0.5"></progress></li>
+</ol>
+
+# Links
+
+Links: [Java](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
+
+I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner.
