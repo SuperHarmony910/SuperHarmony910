@@ -1,7 +1,7 @@
 # SuperHarmony910! That's me!
 **HELLO** and welcome to my GitHub profile! Nice to meet you! This repository is basically my views on programming languages and some tips which I highly recommend to beginner programmers such as was myself. (Everyone has trouble with the PATH variable imo!) This will also be where I deploy my main GitHub Pages [website](https://superharmony910.github.io) from! I possess diverse levels of expertise in various programming languages, displayed in chronological order below:
 <ol>
-<li>Markdown (lol) <progress min="0" max="100" value="90"></progress></li>
+<li>Markdown (lol) </li><progress min="0" max="100" value="90"></progress>
 <li>HTML5 <progress min="0" max="100" value="60"></progress></li>
 <li>XML <progress min="0" max="100" value="50"></progress></li>
 <li>Python <progress min="0" max="100" value="45"></progress></li>
