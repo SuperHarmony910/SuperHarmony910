@@ -1,0 +1,71 @@
+<!-- The first object I coded in my life! -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Time Teller</title>
+        <link type="text/javascript" href="index.js">
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body>
+<style>
+    body{
+    background-color:teal;
+    
+    
+}
+
+#time {
+    background-color:aqua;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+#paragraph_description {
+background-color:#0000FF;
+  font-weight:bold;  
+    
+    
+}
+</style>
+
+<script>
+    alert ("Hello everybody, this is the first code I have ever made in my life and I am learning on this amazing great application SoloLearn which(this is a surprise to me) doesn't cost anything.")
+
+function time() {
+  document.getElementById('time').innerHTML = Date()
+  setTimeout(time, 1000);
+}
+</script>
+
+<h2 id ="title">The Global Time Teller</h2>
+
+<button type="button"
+onclick="time()">
+Click me to display Date and Time.</button>
+
+<p id="time"></p>
+
+</body>
+</html> 
+
+
+
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+ <p id="paragraph_description"> Note that this digital clock will tell the same time as all devices that establish time from the Internet. In simpler words, it will match as the same time as everything that connects to the Internet and tells time. Thank you for using my digital clock. P.S. I have no idea if it will show the time in my timezone(GMT+10:00 AEST)or yours. Please leave down in the comment below if it works or not. And if anybody would recommend any styles, any colours, a look and a feel, please write down in the comments. Thanks. :) </p> 
+</body>
+</html>  
