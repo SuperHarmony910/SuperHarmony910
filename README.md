@@ -10,6 +10,9 @@
 <li>Java <progress min="0" max="100" value="25"></progress></li>
 <li>JavaScript <progress min="0" max="100" value="20"></progress></li>
 <li>C++ <progress min="0" max="100" value="5"></progress></li>
+<li>Go <progress min="0" max="100" value="1.1"></progress></li>
 <li>SQL <progress min="0" max="100" value="1"></progress></li>
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
+
+You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1) & 
