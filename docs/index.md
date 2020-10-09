@@ -15,7 +15,7 @@ Fast forward to January of 2020, I had already dived deep into the cavernous
 depths of the Java programming language. In July, I had already captured the basics of the slithery Python language, trying to build programs and GUIs left, right and centre.
 Come to now (September 2020), and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, Node.js and Go! Not much to come, but definitely worthwile. 
 
-[Click me to find the corresponding repositories!](superharmony910.github.io/SuperHarmony910#links)
+[Click me to find the corresponding repositories!](#links)
 
 ### How skilled am I at programming and have I mastered it?
 Nobody is *the master* at programming (except maybe the creators); people have different skills which vary to their interests. If, for instance, someone wanted to build a website,
