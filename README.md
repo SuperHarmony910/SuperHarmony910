@@ -15,4 +15,4 @@
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
-You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1) & [building a GUI in Python](https://github.com/SuperHarmony910/snake-programmer/tree/master/gui.py) utilising Tkinter.
+You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1) & [building a GUI in Python](https://github.com/SuperHarmony910/snake-programmer/tree/Python_projects/gui.py) utilising Tkinter.
