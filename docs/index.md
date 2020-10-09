@@ -13,7 +13,7 @@ some programs and web development and succumbed into the web of HTML, CSS & Java
 
 Fast forward to January of 2020, I had already dived deep into the cavernous
 depths of the Java programming language. In July, I had already captured the basics of the slithery Python language, trying to build programs and GUIs left, right and centre.
-Come to now (September 2020), and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, and Node.js! Not much to come, but definitely worthwile. 
+Come to now (September 2020), and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, Node.js and Go! Not much to come, but definitely worthwile. 
 
 [Click me to find the corresponding repositories!](superharmony910.github.io/SuperHarmony910#Links)
 
@@ -32,12 +32,13 @@ I possess diverse & mediocre levels of expertise and prowess in various programm
 <li>Java <progress min="0" max="100" value="25"></progress></li>
 <li>JavaScript <progress min="0" max="100" value="20"></progress></li>
 <li>C++ <progress min="0" max="100" value="5"></progress></li>
+<li>Go <progress min="0" max="100" value="1.1"></progress></li>
 <li>SQL <progress min="0" max="100" value="1"></progress></li>
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
 # Links
 
-Links: [Java](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
+Links: [Java](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang) I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
 
 I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner.
