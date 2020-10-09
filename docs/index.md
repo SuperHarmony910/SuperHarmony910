@@ -17,9 +17,9 @@ Come to now (September 2020), and I am expressing basic interest in executables,
 
 [Click me to find the corresponding repositories!](superharmony910.github.io/SuperHarmony910#links)
 
-### How skilled am I at programming?
-Nobody is *good* at programming (except maybe the creators); people have different skills which vary to their interests. If, for instance, someone wanted to build a website,
-they would not be looking at building a GUI with Tkinter in Python! 
+### How skilled am I at programming and have I mastered it?
+Nobody is *the master* at programming (except maybe the creators); people have different skills which vary to their interests. If, for instance, someone wanted to build a website,
+they would not be looking at building a GUI with Tkinter in Python! Although, if you do want to learn programming, you must acknowledge the principles of it and committing to it.
 I possess diverse & mediocre levels of expertise and prowess in various programming languages which I have displayed in chronological order below:
 
 <ol>
@@ -39,6 +39,6 @@ I possess diverse & mediocre levels of expertise and prowess in various programm
 
 # Links
 
-Links: [Java](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang) I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
+Links: [Java (currently not in use)](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
 
 I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner.
