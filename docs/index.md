@@ -1,6 +1,6 @@
 # Welcome to SuperHarmony910's GitHub profile
 
-I am a young, ambitious and mostly self-motivated programmer who is currently learning HTML, CSS, JavaScript, Java, Python, Go, C and C++. I also have an account on [SoloLearn](https://www.sololearn.com/Profile/15129420), where I started coding!
+I am a young, ambitious and mostly self-motivated programmer who is currently learning HTML, CSS, JavaScript, Java, Python, Go, C and C++. I also have an account on [SoloLearn](https://www.sololearn.com/Profile/15129420), where I started coding, and on [Atlassian](https://superharmony910.atlassian.net)!
 
 ## Why do I code  
 
