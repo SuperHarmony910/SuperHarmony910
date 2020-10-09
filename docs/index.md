@@ -20,7 +20,7 @@ Come to now (September 2020), and I am expressing basic interest in executables,
 ### How skilled am I at programming and have I mastered it?
 Nobody is *the master* at programming (except maybe the creators); people have different skills which vary to their interests. If, for instance, someone wanted to build a website,
 they would not be looking at building a GUI with Tkinter in Python! Although, if you do want to learn programming, you must acknowledge the principles of it and committing to it.
-I possess diverse & mediocre levels of expertise and prowess in various programming languages which I have displayed in chronological order below:
+I possess an inquisitive personality and diverse levels of expertise and prowess in various programming languages, which I have displayed in order of personal knowledge below:
 
 <ol>
 <li>Markdown (lol) <progress min="0" max="100" value="90"></progress></li>
@@ -39,6 +39,6 @@ I possess diverse & mediocre levels of expertise and prowess in various programm
 
 # Links
 
-Links: [Python](https://github.com/SuperHarmony910/snake-programmer), [Java (currently not in use)](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
+Links: [Python](https://github.com/SuperHarmony910/snake-programmer), [Java (archive)](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
 
 I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner and whomever he (yes, I am a he) grants access to, for said repositories contain personally sensitive info.
