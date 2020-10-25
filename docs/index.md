@@ -41,3 +41,16 @@ I possess diverse & mediocre levels of expertise and prowess in various programm
 Links: [Java](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
 
 I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner.
+
+<script>
+alert ("Hello everybody, this is the first code I have ever made in my life and I am learning on this amazing great application SoloLearn which(this is a surprise to me) doesn't cost anything.")
+
+function time() {
+  document.getElementById('time').innerHTML = Date()
+  setTimeout(1000);
+}
+</script>
+
+<button onclick="time()"><strong>CLICK ME!!!!</strong></button>
+
+<p id="time"></p>
