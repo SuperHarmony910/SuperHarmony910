@@ -15,7 +15,7 @@
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
-[![SuperHarmony910's github stats](https://github-readme-stats.vercel.app/api?username=SuperHarmony910)](https://github.com/anuraghazra/github-readme-stats)
+[![SuperHarmony910's github stats](https://github-readme-stats.vercel.app/api?username=SuperHarmony910&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1) & [building a GUI in Python](https://github.com/SuperHarmony910/snake-programmer/tree/Python_projects/gui.py) utilising Tkinter.
