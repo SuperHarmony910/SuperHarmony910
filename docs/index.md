@@ -27,7 +27,7 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <progress min="0" max="100" value="60"></progress></li>
 <li>XML <progress min="0" max="100" value="50"></progress></li>
 <li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <progress min="0" max="100" value="45"></progress></li>
-<li><code><img height="30" width="30" src=""></code> <progress min="0" max="100" value="30"></progress></li>
+<li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <progress min="0" max="100" value="30"></progress></li>
 <li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code> <progress min="0" max="100" value="26"></progress></li>
 <li><code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"></code><progress min="0" max="100" value="25"></progress></li>
 <li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> & <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><progress min="0" max="100" value="20"></progress></li>
