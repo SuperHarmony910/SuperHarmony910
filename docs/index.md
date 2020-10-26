@@ -31,8 +31,8 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li>PHP <progress min="0" max="100" value="26"></progress></li>
 <li><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"><progress min="0" max="100" value="25"></progress></li>
 <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> & <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><progress min="0" max="100" value="20"></progress></li>
-<li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <progress min="0" max="100" value="5"></progress></li>
-<li><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code> <progress min="0" max="100" value="1.1"></progress></li>
+<li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <progress min="0" max="100" value="5"></progress></li>
+<li><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code> <progress min="0" max="100" value="1.1"></progress></li>
 <li>SQL <progress min="0" max="100" value="1"></progress></li>
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
