@@ -26,7 +26,7 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li>Markdown (lol) <progress min="0" max="100" value="90"></progress></li>
 <li>HTML5 <progress min="0" max="100" value="60"></progress></li>
 <li>XML <progress min="0" max="100" value="50"></progress></li>
- <li><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <progress min="0" max="100" value="45"></progress></li>
+ <li><code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <progress min="0" max="100" value="45"></progress></li>
 <li>CSS(3) <progress min="0" max="100" value="30"></progress></li>
 <li>PHP <progress min="0" max="100" value="26"></progress></li>
 <li><code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"></code><progress min="0" max="100" value="25"></progress></li>
