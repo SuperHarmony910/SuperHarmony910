@@ -37,8 +37,11 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
-### My stats!
+## My stats!
 
+[![SuperHarmony910's GitHub stats!](https://github-readme-stats.vercel.app/api?username=SuperHarmony910&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My top code languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHarmony910&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # Links
 
