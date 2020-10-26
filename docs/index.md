@@ -13,7 +13,7 @@ some programs and web development and succumbed into the web of HTML, CSS & Java
 
 Fast forward to January of 2020, I had already dived deep into the cavernous
 depths of the Java programming language. In July, I had already captured the basics of the slithery Python language, trying to build programs and GUIs left, right and centre.
-Come to now (September 2020), and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, Node.js and Go! Not much to come, but definitely worthwile. 
+Come to September 2020, and I am expressing basic interest in executables, therefore leading to my occasional delves into C & C++, Node.js and Go! Not much to come, but definitely worthwile. 
 
 [Click me to find the corresponding repositories!](#links)
 
@@ -29,7 +29,7 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li>Python <progress min="0" max="100" value="45"></progress></li>
 <li>CSS(3) <progress min="0" max="100" value="30"></progress></li>
 <li>PHP <progress min="0" max="100" value="26"></progress></li>
-<li><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"><progress min="0" max="100" value="25"></progress></li>
+<li><code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"></code><progress min="0" max="100" value="25"></progress></li>
 <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> & <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><progress min="0" max="100" value="20"></progress></li>
 <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <progress min="0" max="100" value="5"></progress></li>
 <li><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code> <progress min="0" max="100" value="1.1"></progress></li>
