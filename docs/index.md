@@ -30,32 +30,22 @@ I possess an inquisitive personality and diverse levels of expertise and prowess
 <li>CSS(3) <progress min="0" max="100" value="30"></progress></li>
 <li>PHP <progress min="0" max="100" value="26"></progress></li>
 <li>Java <progress min="0" max="100" value="25"></progress></li>
-<li>JavaScript <progress min="0" max="100" value="20"></progress></li>
+<li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> & <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    <progress min="0" max="100" value="20"></progress></li>
 <li>C++ <progress min="0" max="100" value="5"></progress></li>
 <li>Go <progress min="0" max="100" value="1.1"></progress></li>
 <li>SQL <progress min="0" max="100" value="1"></progress></li>
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
+### My stats!
+
+
 # Links
 
 Links: [Python](https://github.com/SuperHarmony910/snake-programmer), [Java (archive)](https://github.com/SuperHarmony910/first-train), [Node.js](https://github.com/SuperHarmony910/node-js-electron), [Go](https://github.com/SuperHarmony910/go-lang), I daren't mention [XML](https://github.com/SuperHarmony910/extensible-markup)
 
-<<<<<<< HEAD
-I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner.
+I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner and whomever he (yes, I am a he) grants access to, for said repositories contain personally sensitive info.
 
 <script>
-alert ("Hello everybody, this is the first code I have ever made in my life and I am learning on this amazing great application SoloLearn which(this is a surprise to me) doesn't cost anything.")
-
-function time() {
-  document.getElementById('time').innerHTML = Date()
-  setTimeout(1000);
-}
+alert('Welcome to my website!')
 </script>
-
-<button onclick="time()"><strong>CLICK ME!!!!</strong></button>
-
-<p id="time"></p>
-=======
-I should note that my C, C++, HTML and **main** Java repositories are private and cannot be accessed by anyone save the owner and whomever he (yes, I am a he) grants access to, for said repositories contain personally sensitive info.
->>>>>>> 093748f3a5e6c9220d6342a10aa51dea48fabd82
