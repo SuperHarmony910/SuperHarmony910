@@ -15,6 +15,8 @@
 <li>C <progress min="0" max="100" value="0.5"></progress></li>
 </ol>
 
+(The HTML is sadly not displaying the progress bar. View as raw to see stats, or go to my [website](https://superharmony910.github.io))
+
 [![SuperHarmony910's GitHub stats!](https://github-readme-stats.vercel.app/api?username=SuperHarmony910&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top code languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHarmony910&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
