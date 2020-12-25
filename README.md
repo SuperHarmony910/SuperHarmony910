@@ -21,4 +21,4 @@
 
 [![My top code languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHarmony910&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1) & [building a GUI in Python](https://github.com/SuperHarmony910/snake-programmer/tree/Python_projects/gui.py) utilising Tkinter.
+You should check out my projects! I am currently [building a mod for Minecraft](https://github.com/SuperHarmony910/modification-builder/projects/1), [building a GUI in Python](https://github.com/SuperHarmony910/snake-programmer/tree/Python_projects/gui.py) utilising Tkinter, and creating a [messaging app](https://github.com/SuperHarmony910/node-js-electron) through [Azure](https://polite-forest-039e21100.azurestaticapps.net/https://polite-forest-039e21100.azurestaticapps.net/)!
