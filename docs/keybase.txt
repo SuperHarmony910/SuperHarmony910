@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/superharmony910
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://superharmony910.is-a.dev
+  * I am superharmony910 (https://keybase.io/superharmony910) on keybase.
+  * I have a public key ASD02kV0dCjtOAXnZRO7SfEJQwNeEBN0p-XUXYntUc72Zwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f4da45747428ed3805e76513bb49f10943035e101374a7e5d45d89ed51cef6670a",
+      "host": "keybase.io",
+      "kid": "0120f4da45747428ed3805e76513bb49f10943035e101374a7e5d45d89ed51cef6670a",
+      "uid": "dab14101b765edcbae4df0a7af246a19",
+      "username": "superharmony910"
+    },
+    "merkle_root": {
+      "ctime": 1644839585,
+      "hash": "efd844de064657e57a68248ba5f3edecac0d0a4c5c7af3aec355f9c2241a97d95112447809c0798c3c3df3b04c368af5204404374eefd68684206e458594d416",
+      "hash_meta": "9df9f8d06cf6e38eb4558c26905b4005735d80759ed3d65529c07c69fa10bd72",
+      "seqno": 21868436
+    },
+    "service": {
+      "entropy": "3cVxr8knb52881pMOHBvD9fg",
+      "hostname": "superharmony910.is-a.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1644839650,
+  "expire_in": 504576000,
+  "prev": "a740536bb5613d6b5a25a85d3f8e22cadca4c0be4b8005ce6ac6f0617f314351",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9NpFdHQo7TgF52UTu0nxCUMDXhATdKfl1F2J7VHO9mcKp3BheWxvYWTESpcCE8Qgp0BTa7VhPWtaJahdP44iytykwL5LgAXOasbwYX8xQ1HEICg6EdhbP08RLLShLKEvDrMuyialwIVOs84twelTRGR/AgHCo3NpZ8RADOcQbPoR6RZsijenmr860o/3E4VDTb0Aim+5C/pGw8+Ur6OxkY4BKS83g/BMdpmJBx4Yt3/mawiB5Kjd+rCiAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKYFeNhHFHyVEitUs+0OTHwG0JRCd0tduId3vLPhlLM4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/superharmony910
+
+==================================================================
