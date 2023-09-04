@@ -1,0 +1,52 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Merriweather&family=Roboto&family=Tektur&display=swap');
+
+/* Apply styles to h1 elements */
+h1 {
+    font-family: 'Lugrasimo', sans-serif;
+    font-size: 36px; /* Increase the font size for h1 */
+    color: #333; /* Set text color to a dark gray */
+    text-transform: uppercase; /* Uppercase text */
+    margin: 20px 0; /* Add some vertical margin */
+}
+
+/* Apply styles to images */
+img {
+    max-width: 100%;
+    height: auto; /* Maintain the aspect ratio of images */
+    border: 4px solid #fff; /* Add a white border around images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+}
+
+/* Apply styles to links */
+a {
+    font-family: 'Lugrasimo', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #007BFF; /* Use a blue color for links */
+    transition: color 0.3s; /* Add a smooth color transition effect */
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+/* Apply styles to the body */
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px; /* Add padding to create space between content and edges */
+    background-image: url("header.jpg");
+    background-size: cover;
+    background-position: center; /* Center the background image */
+    color: #333; /* Set text color to a dark gray */
+    line-height: 1.6; /* Improve text readability with increased line height */
+}
+
+/* Add a border around the body */
+body {
+    border: 2px solid #ccc;
+    border-radius: 8px; /* Rounded corners */
+    background-color: #fff; /* White background for content */
+}
