@@ -34,6 +34,7 @@ a:hover {
 
 /* Apply styles to the body */
 body {
+    font-family: 'Roboto', monospace;
     max-width: 1024px;
     margin: 0 auto;
     padding: 20px; /* Add padding to create space between content and edges */
